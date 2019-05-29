@@ -10,4 +10,4 @@ def display_board(board)
   
 end 
 
-diplay_board([" "," "," "," "," "," "," "," "," "])
+display_board([" "," "," "," "," "," "," "," "," "])
